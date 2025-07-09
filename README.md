@@ -100,7 +100,7 @@
 
 1. **저장소 클론**
 ```bash
-git clone https://github.com/your-username/refill-app-project.git
+git clone https://github.com/jin000oo/refill-app-project
 cd refill-app-project
 ```
 
@@ -135,12 +135,8 @@ lib/
 └── colors.dart          # 색상 정의
 ```
 
-## 라이선스
-
-이 프로젝트는 교육 목적으로 개발되었습니다.
-
 ---
 
 **개발 기간**: 2025.03.10 ~ 2025.06.16  
-**프로젝트 유형**: 산학프로젝트 (교과)  
+**프로젝트 유형**: 산학프로젝트1 (교과)  
 **소속**: 조선대학교 AI소프트웨어학부 (컴퓨터공학전공)
