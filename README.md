@@ -56,18 +56,6 @@
 - **OpenWeatherMap API** - 날씨 정보 연동
 - **Google Sign-In** - 소셜 로그인
 
-## 시스템 아키텍처
-
-```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   Flutter App   │◄──►│    Firebase      │◄──►│  External APIs  │
-│                 │    │                  │    │                 │
-│ • 사용자 인터페이스 │    │ • Authentication │    │ • Weather API   │
-│ • 상태 관리       │    │ • Firestore DB   │    │ • Geolocator    │
-│ • 권한별 화면     │    │ • Cloud Functions│    │                 │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
-```
-
 ## 주요 화면
 
 ### 인증 & 온보딩
